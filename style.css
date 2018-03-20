@@ -29,6 +29,7 @@ h1, h3{
 
 p {
   margin: 0 0 3rem;
+  direction: rtl;
 }
 
 .words:before {
